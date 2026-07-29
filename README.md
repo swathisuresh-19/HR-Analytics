@@ -127,3 +127,4 @@ Through this project, I gained practical experience in the complete data analyti
 # Author
 
 **Swathi Suresh**
+![image alt](https://github.com/swathisuresh-19/HR-Analytics/blob/main/Hr%20dashboard.png?raw=true)
